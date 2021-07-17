@@ -1,0 +1,12 @@
+/*----- google fonts --- */
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@400;500;600;700&display=swap');
+
+/* common style and uitilytis */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family:'Asap', sans-serif;
+}
